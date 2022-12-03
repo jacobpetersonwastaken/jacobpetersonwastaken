@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm Jacob, a software developer who loves creating and building new things. These are some of my favorite projects I've been working on.
+I'm Jacob, a software developer who loves creating and building new things. These are some of my favorite projects I've been working on. [My website](https://jacobpeterson.me/) for more info about me.
 
 <div align="center">
+  
+  # Projects
   
 | Cheap Flight Finder |  Web Blog|
 |  :---:  | :---: |
@@ -14,9 +16,16 @@ I'm Jacob, a software developer who loves creating and building new things. Thes
 
 | Chrome Tab Counter |  
 |  :---:  |
-| <img src="https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tab.gif" alt="drawing" width="250"/>   |
+| <img src="https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tab.gif" alt="drawing"  width="250"/>   |
   
+  
+  # Tech
+  
+  <img src="https://github.com/jacobpetersonwastaken/profile_stuff/blob/main/tech.png" alt="Tech" style="width: 50vw; cursor: default;"/>
+ 
 </div>
+
+
 
 <!--
 ![alt text](https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif)
