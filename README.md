@@ -4,12 +4,12 @@ I'm Jacob, a software developer who loves creating and building new things. Thes
 
 | Cheap Flight Finder | Chrome Tab Counter |
 |  :---:  | :---: |
-| <img src="https://github.com/jacobpetersonwastaken/cheap_flight_finder/blob/main/flightfinder.gif" alt="drawing" width="350"/> | <img src="https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tab.gif" alt="drawing" width="350"/>   |
+| <img src="https://github.com/jacobpetersonwastaken/cheap_flight_finder/blob/main/flightfinder.gif" alt="drawing" width="200"/> | <img src="https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tab.gif" alt="drawing" width="200"/>   |
 
 
 | Android app Door  | Programming hours tracker |
 |  :---:  | :---: |
-|<img src="https://github.com/jacobpetersonwastaken/door_android_app/blob/main/door.gif" alt="drawing" width="350"/>|<img src="https://github.com/jacobpetersonwastaken/programmingTracker/blob/main/programmingtracker.gif" alt="drawing" width="350"/>|
+|<img src="https://github.com/jacobpetersonwastaken/door_android_app/blob/main/door.gif" alt="drawing" width="200"/>|<img src="https://github.com/jacobpetersonwastaken/programmingTracker/blob/main/programmingtracker.gif" alt="drawing" width="200"/>|
 
 
 
