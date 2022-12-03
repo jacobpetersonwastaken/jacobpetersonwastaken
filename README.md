@@ -5,22 +5,20 @@ I'm Jacob, a software developer who loves creating and building new things. Thes
   
   # Projects
   
-| Cheap Flight Finder |  Web Blog|
+| [Cheap Flight Finder](https://github.com/jacobpetersonwastaken/cheap_flight_finder) |  [Blog Site](https://github.com/jacobpetersonwastaken/blog_site)|
 |  :---:  | :---: |
 | <img src="https://github.com/jacobpetersonwastaken/cheap_flight_finder/blob/main/flightfinder.gif" alt="drawing" width="250"/> | <img src="https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif" alt="drawing" width="250"/>   |
 
 
-| Android app Door  | Programming hours tracker |
+| [Android app Door](https://github.com/jacobpetersonwastaken/door_android_app)  | [Programming hours tracker](https://github.com/jacobpetersonwastaken/programmingTracker) |
 |  :---:  | :---: |
 |<img src="https://github.com/jacobpetersonwastaken/door_android_app/blob/main/door.gif" alt="drawing" width="250"/>|<img src="https://github.com/jacobpetersonwastaken/programmingTracker/blob/main/programmingtracker.gif" alt="drawing" width="250"/>|
 
-| Chrome Tab Counter |  
+| [Chrome Tab Counter](https://github.com/jacobpetersonwastaken/TabCounter)|  
 |  :---:  |
 | <img src="https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tab.gif" alt="drawing"  width="250"/>   |
   
   
-  
-  <a href="https://github.com/jacobpetersonwastaken/cheap_flight_finder" style="width: 50px;" target=”_blank”>  <img src="https://github.com/jacobpetersonwastaken/profile_stuff/blob/main/button.png" alt="Tech" style="width: 5vw;"/></a>
   
   
   # Tech
@@ -35,7 +33,6 @@ I'm Jacob, a software developer who loves creating and building new things. Thes
 ![alt text](https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif)
 
 https://github.com/jacobpetersonwastaken/profile_stuff/blob/main/button.png
-
 
 
 
