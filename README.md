@@ -7,16 +7,16 @@ I'm Jacob, a software developer who loves creating and building new things. Thes
   
 | [Cheap Flight Finder](https://github.com/jacobpetersonwastaken/cheap_flight_finder) |  [Blog Site](https://github.com/jacobpetersonwastaken/blog_site)|
 |  :---:  | :---: |
-| <img src="https://github.com/jacobpetersonwastaken/cheap_flight_finder/blob/main/flightfinder.gif" alt="drawing" width="250"/> | <img src="https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif" alt="drawing" width="250"/>   |
+| <img src="https://github.com/jacobpetersonwastaken/cheap_flight_finder/blob/main/flightfinder.gif" alt="drawing" style="width: 20vw;"/> | <img src="https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif" alt="drawing" style="width: 20vw;"/>   |
 
 
 | [Android app Door](https://github.com/jacobpetersonwastaken/door_android_app)  | [Programming hours tracker](https://github.com/jacobpetersonwastaken/programmingTracker) |
 |  :---:  | :---: |
-|<img src="https://github.com/jacobpetersonwastaken/door_android_app/blob/main/door.gif" alt="drawing" width="250"/>|<img src="https://github.com/jacobpetersonwastaken/programmingTracker/blob/main/programmingtracker.gif" alt="drawing" width="250"/>|
+|<img src="https://github.com/jacobpetersonwastaken/door_android_app/blob/main/door.gif" alt="drawing" style="width: 20vw;"/>|<img src="https://github.com/jacobpetersonwastaken/programmingTracker/blob/main/programmingtracker.gif" alt="drawing" style="width: 20vw;"/>|
 
-| [Chrome Tab Counter](https://github.com/jacobpetersonwastaken/TabCounter)|  
-|  :---:  |
-| <img src="https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tab.gif" alt="drawing"  width="250"/>   |
+| [Chrome Tab Counter](https://github.com/jacobpetersonwastaken/TabCounter)| [Password Manager](https://github.com/jacobpetersonwastaken/password_manager) |
+|  :---:  | :---:  |
+| <img src="https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tab.gif" alt="drawing"  style="width: 20vw;"/>   | <img src="https://github.com/jacobpetersonwastaken/password_manager/blob/main/password_1.gif" alt="Tech" style="width: 20vw;"/>
   
   
   
@@ -30,11 +30,9 @@ I'm Jacob, a software developer who loves creating and building new things. Thes
 
 
 <!--
-![alt text](https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif)
-
-https://github.com/jacobpetersonwastaken/profile_stuff/blob/main/button.png
 
 
+https://github.com/jacobpetersonwastaken/password_manager/blob/main/password_1.gif
 
 
 ![Image of Extension](https://github.com/jacobpetersonwastaken/TabCounter/blob/main/tabcounterimg.PNG)
