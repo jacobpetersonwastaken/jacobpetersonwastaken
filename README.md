@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jacob, a software developer who loves creating and building new things. These are some of my favorite projects I've been working on. [My website](https://jacobpeterson.me/) for more info about me.
+I'm Jacob, a software developer who loves creating and building new things. These are some of my favorite projects I've been working on.
 
 <div align="center">
   
