@@ -5,9 +5,9 @@ I'm Jacob, a software developer who loves creating and building new things. Thes
   
   # Projects
   
-| [Real Time Chat](https://github.com/jacobpetersonwastaken/McTileModSupportApp) |  [Blog Site](https://github.com/jacobpetersonwastaken/blog_site)|
+| [Real Time Chat Websocket](https://github.com/jacobpetersonwastaken/realTimeChatWebsocketTileSupportApp) |  [Blog Site](https://github.com/jacobpetersonwastaken/blog_site)|
 |  :---:  | :---: |
-| <img src="https://raw.githubusercontent.com/jacobpetersonwastaken/McTileModSupportApp/main/mcTile.gif?token=GHSAT0AAAAAACDRZ3ZLKFLYPLES44LRII4AZESSQMA" alt="drawing" style="width: 20vw;"/> | <img src="https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif" alt="drawing" style="width: 20vw;"/>   |
+| <img src="https://raw.githubusercontent.com/jacobpetersonwastaken/realTimeChatWebsocketTileSupportApp/master/mcTile.gif?token=GHSAT0AAAAAACDRZ3ZLZXQN4ZVQGUTO3ODEZESTZ7A" alt="drawing" style="width: 20vw;"/> | <img src="https://github.com/jacobpetersonwastaken/blog_site/blob/main/web_blog.gif" alt="drawing" style="width: 20vw;"/>   |
 
 
 | [Cheap Flight Finder](https://github.com/jacobpetersonwastaken/cheap_flight_finder)  | [Programming hours tracker](https://github.com/jacobpetersonwastaken/programmingTracker) |
